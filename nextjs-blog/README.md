@@ -1,3 +1,6 @@
+## Front end project whit NextJS 
+### React, Next and responsiveness training
+
 projeto feito com react e nextjs
 
 logo apos clonar o diretorio rode o comando ' npm install ' na raiz do projeto dps ' npm start ' ou ' npm run dev '
